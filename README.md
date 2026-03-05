@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bienvenue 👋 Nous sommes Jeux-Bitcoin
 
-<!--
-**jeux-bitcoin/jeux-bitcoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nous développons des outils open-source pour la transparence et la vérification d'équité dans les casinos crypto.
 
-Here are some ideas to get you started:
+🌐 [Jeux-Bitcoin.com](https://jeux-bitcoin.com) — Guide indépendant des casinos Bitcoin en français
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Nos outils open-source
+
+- 🔐 [Vérificateur SHA-256 Provably Fair](https://github.com/jeux-bitcoin/verificateur-sha256-provably-fair) — Vérifiez l'intégrité des seeds de vos parties
+- 📖 [Comprendre le Provably Fair](https://jeux-bitcoin.com/provably-fair/) — Guide complet en français
+
+### À propos
+
+Nous sommes un portail d'information indépendant sur les jeux crypto. Nous n'opérons aucun casino. Notre mission est d'aider les joueurs francophones à faire des choix éclairés.
+
+Basé au Canada
